@@ -1,0 +1,32 @@
+
+
+body  
+{
+background-color: whitesmoke;
+      }
+h1{
+  color:#66BFBF;
+}
+h3 {
+  color:#66BFBF;
+}
+ hr {
+    background-color: white;
+  border-style: none;
+
+  border-bottom-style: dotted;
+height: 0px;
+
+width: 5%;
+
+border-color: black;
+border-width: 8px;
+
+ }
+ img {
+   display: block;
+   margin: 0 auto 0 auto ;
+ }
+ table{
+  border-collapse: separate; border-spacing: 10px;
+ }
